@@ -133,5 +133,10 @@ body {
   
   .presentacion_contenido {
     width: auto;
+    padding-bottom: 10%;
+  }
+
+  .presentacion_imagen_persona {
+    width: 100%;
   }
 }
